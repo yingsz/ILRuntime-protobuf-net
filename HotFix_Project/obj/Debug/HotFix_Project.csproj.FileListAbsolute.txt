@@ -1,0 +1,13 @@
+G:\test\unity\ilrumtime\trunk\ILRuntimeDemo\Assets\StreamingAssets\HotFix_Project.dll
+G:\test\unity\ilrumtime\trunk\ILRuntimeDemo\Assets\StreamingAssets\HotFix_Project.pdb
+G:\test\unity\ilrumtime\trunk\HotFix_Project\obj\Debug\HotFix_Project.dll
+G:\test\unity\ilrumtime\trunk\HotFix_Project\obj\Debug\HotFix_Project.pdb
+F:\work\rise\gamedemo\trunk\sundry\sample\ILRuntime\HotFix_Project\obj\Debug\HotFix_Project.dll
+F:\work\rise\gamedemo\trunk\sundry\sample\ILRuntime\HotFix_Project\obj\Debug\HotFix_Project.pdb
+F:\work\rise\gamedemo\trunk\sundry\sample\ILRuntime\ILRuntime\Assets\StreamingAssets\HotFix_Project.dll
+F:\work\rise\gamedemo\trunk\sundry\sample\ILRuntime\ILRuntime\Assets\StreamingAssets\HotFix_Project.pdb
+G:\test\github\ILRuntime+protobuf-net\ILRuntime\Assets\StreamingAssets\HotFix_Project.dll
+G:\test\github\ILRuntime+protobuf-net\ILRuntime\Assets\StreamingAssets\HotFix_Project.pdb
+G:\test\github\ILRuntime+protobuf-net\HotFix_Project\obj\Debug\HotFix_Project.csprojResolveAssemblyReference.cache
+G:\test\github\ILRuntime+protobuf-net\HotFix_Project\obj\Debug\HotFix_Project.dll
+G:\test\github\ILRuntime+protobuf-net\HotFix_Project\obj\Debug\HotFix_Project.pdb
